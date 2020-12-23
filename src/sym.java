@@ -1,7 +1,7 @@
 
 public class sym {
 
-	// za drugu lab:
+	// za drugu i za trecu lab:
 	public final static int IF = 0;
 	public final static int LEFTPAR = 1;
 	public final static int RIGHTPAR = 2;
